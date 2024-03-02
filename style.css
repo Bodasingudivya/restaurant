@@ -1,0 +1,195 @@
+body {
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.b li {
+    float: left;
+    display: inline;
+    padding: 25px 160px 25px 150px;
+    text-align: center;
+    background-color: pink;
+    color: black;
+    margin-left: 12px;
+}
+
+.b a li:hover {
+    color: black;
+    transform: scale(1.05);
+    transition: .3s;
+    background-color: blue;
+
+}
+
+.cp img {
+    margin-left: 30px;
+
+}
+
+.cp img:hover {
+    transform: scale(1.1);
+
+}
+
+.def h1:hover {
+    transform: scale(1.1);
+    background-color: rgb(108, 240, 143);
+}
+
+.def h1 {
+    background-color: bisque;
+}
+
+.card img {
+    height: 250px;
+    width: 100%;
+}
+
+.card {
+    height: 420px;
+    width: 23.3%;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px black;
+
+}
+
+.card :hover {
+    transform: scale(0.90);
+}
+
+.card button {
+    background-color: red;
+
+}
+
+.dia h1:hover {
+    transform: scale(1.1);
+    background-color: rgb(108, 240, 143);
+}
+
+.dia h1 {
+    background-color: rgb(239, 153, 47);
+}
+
+.xyz img {
+
+    margin-left: 36px;
+
+}
+
+.xyz img:hover {
+
+    transform: scale(1.1);
+}
+
+.abc h1:hover {
+    transform: scale(1.1);
+    background-color: rgb(65, 133, 151);
+}
+
+.abc h1 {
+    background-color: rgb(183, 208, 59);
+}
+
+.abc li {
+    list-style-type: circle;
+    text-align: center;
+    color: coral;
+    font: 30px;
+    background-color: black;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+
+}
+
+.abc p {
+
+    text-align: center;
+    color: blueviolet;
+    font-size: 20px;
+    background-color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+
+}
+
+.pqr {
+
+    position: relative;
+    position: absolute;
+    z-index: 1;
+    margin-top: 80px;
+    margin-left: 970px;
+    text-align: center;
+
+}
+
+.pqr h2 {
+    font-size: 50px;
+    color: crimson
+}
+
+.pqr h1 {
+    font-size: 20px;
+    color: chocolate;
+
+}
+
+.pqr p {
+    font-size: 20px;
+    color: violet;
+
+}
+
+.pqr button {
+
+    font-size: 30px;
+    background-color: darkred;
+    font-style: italic;
+}
+
+.pqr button:hover {
+    transform: scale(1.2);
+    background-color: green
+}
+
+.pqr a {
+    color: white;
+}
+
+.logo img {
+    width: 4%;
+    height: 60px;
+    box-sizing: border-box;
+    border-radius: 40px;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+
+
+}
+
+.logo {
+    background-color: rgb(3, 3, 74);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.klmn {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+hr {
+    border: 1px solid rgb(75, 74, 74);
+}
